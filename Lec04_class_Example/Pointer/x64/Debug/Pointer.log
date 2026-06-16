@@ -1,0 +1,6 @@
+﻿  Pointer.cpp
+C:\Users\USER\Documents\data-structure-lab-2026-3\Lec04_class_Example\Pointer\Pointer.cpp(9,9): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\USER\Documents\data-structure-lab-2026-3\Lec04_class_Example\Pointer\Pointer.cpp(9,9): warning C4313: 'printf': 서식 문자열의 '%p'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\USER\Documents\data-structure-lab-2026-3\Lec04_class_Example\Pointer\Pointer.cpp(15,9): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\USER\Documents\data-structure-lab-2026-3\Lec04_class_Example\Pointer\Pointer.cpp(15,9): warning C4313: 'printf': 서식 문자열의 '%p'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+  Pointer.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2026-3\Lec04_class_Example\x64\Debug\Pointer.exe

@@ -1,0 +1,14 @@
+﻿  lecter.c
+C:\Users\USER\Documents\data-structure-lab-2026-3\Project1\lecter.c(6,7): error C2086: 'char string2[20]': 재정의
+      C:\Users\USER\Documents\data-structure-lab-2026-3\Project1\lecter.c(5,40):
+      'string2' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2026-3\Project1\lecter.c(11,62): error C2224: '.ptr1' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\USER\Documents\data-structure-lab-2026-3\Project1\lecter.c(11,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+      C:\Users\USER\Documents\data-structure-lab-2026-3\Project1\lecter.c(11,9):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+      C:\Users\USER\Documents\data-structure-lab-2026-3\Project1\lecter.c(11,9):
+      누락된 variadic 인수 1이(가) 서식 문자열 '%u'에 필요합니다.
+  
+C:\Users\USER\Documents\data-structure-lab-2026-3\Project1\lecter.c(12,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\USER\Documents\data-structure-lab-2026-3\Project1\lecter.c(12,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) char *' 형식의 인수 1과(와) 충돌합니다.

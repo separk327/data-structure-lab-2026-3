@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\USER\Documents\data-structure-lab-2026-3\Lec04_class_Example\Lec04_class_Example\main.cpp(21,9): error C2248: 'Music::MusicStreamingService': private class('Music' 클래스에서 선언)에 액세스할 수 없습니다.
+      C:\Users\USER\Documents\data-structure-lab-2026-3\Lec04_class_Example\Lec04_class_Example\Music.h(27,8):
+      'Music::MusicStreamingService' 선언을 참조하십시오.
+      C:\Users\USER\Documents\data-structure-lab-2026-3\Lec04_class_Example\Lec04_class_Example\Music.h(8,7):
+      'Music' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2026-3\Lec04_class_Example\Lec04_class_Example\main.cpp(23,12): error C2039: 'addMuisc': 'Music::MusicStreamingService'의 멤버가 아닙니다.
+      C:\Users\USER\Documents\data-structure-lab-2026-3\Lec04_class_Example\Lec04_class_Example\Music.h(27,8):
+      'Music::MusicStreamingService' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2026-3\Lec04_class_Example\Lec04_class_Example\main.cpp(25,2): error C2143: 구문 오류: ';'이(가) 'return' 앞에 없습니다.
